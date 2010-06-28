@@ -46,6 +46,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/dbergey/Instapaper-Archiver/raw/gh-pages/updates_safari.plist</string>
 	<key>Website</key>
 	<string>http://danielbergey.com/software/instapaperarchiver/</string>
 </dict>
